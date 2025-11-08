@@ -1,0 +1,6 @@
+@mewo_HostAddress = http://localhost:5133
+
+GET {{mewo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
