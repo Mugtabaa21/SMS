@@ -2,11 +2,13 @@
 using Microsoft.EntityFrameworkCore;
 using mewo.Models;
 using mewo.Dtos;
+using Microsoft.AspNetCore.Authorization;
 
 namespace mewo.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize]
     public class EnrollmentController : ControllerBase
     {
         private readonly AppDbContext _context;
@@ -92,20 +94,20 @@ namespace mewo.Controllers
             return CreatedAtAction(nameof(GetById), new { id = result.Id }, result);
         }
 
-        
-        //[HttpPut("{id}")]
-        //public async Task<IActionResult> Update(Guid id, EnrollmentUpdateDto dto)
-        //{
-        //    var enrollment = await _context.Enrollments.FindAsync(id);
-        //    if (enrollment == null)
-        //        return NotFound();
-        //    enrollment.Grade = dto.Grade ?? enrollment.Grade;
-        //    await _context.SaveChangesAsync();
 
-        //    return NoContent();
-        //}
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Update(Guid id, EnrollmentUpdateDto dto)
+        {
+            var enrollment = await _context.Enrollments.FindAsync(id);
+            if (enrollment == null)
+                return NotFound();
+            enrollment.Grade = dto.Grade ?? enrollment.Grade;
+            await _context.SaveChangesAsync();
 
-        
+            return NoContent();
+        }
+
+
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(Guid id)
         {

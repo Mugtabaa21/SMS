@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mewo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33a08ce5a64c2d5a52b25017ba05ef54c2508171")]
 [assembly: System.Reflection.AssemblyProductAttribute("mewo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mewo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -17,6 +17,7 @@ namespace mewo.Models
         /// The '?' makes the string "nullable" (optional).
         /// </summary>
         public string? ImageUrl { get; set; }
+        public bool IsActive { get; set; }
 
         public DateTime EnrollmentDate { get; set; }
 

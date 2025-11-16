@@ -3,11 +3,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using mewo.Dtos;
 using mewo.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace mewo.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class CourseController : ControllerBase
     {
         private readonly mewo.Models.AppDbContext _context;

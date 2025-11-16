@@ -16,14 +16,17 @@ namespace mewo.Controllers
         private readonly mewo.Models.AppDbContext _context;
         public StudentsController(mewo.Models.AppDbContext context)
         {
+
             _context = context;
-        }
+        }        
+          
         [HttpGet]
-        public async Task<IActionResult> GetAllStudent()
+        public async Task<IActionResult> GetAllStudentDefualt()
         {
             var result = await _context.Students.ToListAsync();
             return Ok(result);
         }
+
 
         [HttpGet("{id}")]
         public async Task<IActionResult> GetStudentById(Guid id)
@@ -47,7 +50,8 @@ namespace mewo.Controllers
                 Department = createStudent.Department,
                 Stage = createStudent.Stage,
                 ImageUrl = createStudent.ImageUrl,
-                EnrollmentDate = DateTime.UtcNow
+                EnrollmentDate = DateTime.UtcNow,
+                IsActive = true
             };
             _context.Students.Add(student);
             await _context.SaveChangesAsync();

@@ -145,3 +145,4 @@ C:\Users\ASUS\source\repos\mewo\obj\Debug\net8.0\refint\mewo.dll
 C:\Users\ASUS\source\repos\mewo\obj\Debug\net8.0\mewo.pdb
 C:\Users\ASUS\source\repos\mewo\obj\Debug\net8.0\mewo.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\mewo\obj\Debug\net8.0\ref\mewo.dll
+C:\Users\ASUS\source\repos\mewo\obj\Debug\net8.0\mewo.sourcelink.json
