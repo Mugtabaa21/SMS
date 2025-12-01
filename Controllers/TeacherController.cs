@@ -12,7 +12,7 @@ namespace mewo.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    //[Authorize]
     public class TeacherController : ControllerBase
     {
         private readonly mewo.Models.AppDbContext _context;

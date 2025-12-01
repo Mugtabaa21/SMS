@@ -22,7 +22,7 @@
         public string Department { get; set; }
         public int Stage { get; set; } 
 
-        public string ImageUrl { get; set; }
+        public IFormFile? ImageUrl { get; set; }
 
     }
 
@@ -33,7 +33,7 @@
         public string? Department { get; set; }
         public int? Stage { get; set; } 
 
-        public string? ImageUrl { get; set; }
+        public IFormFile? ImageUrl { get; set; }
 
     }
 

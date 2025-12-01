@@ -3,32 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\mewo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\data\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:data\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\dtos\\teacherfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:dtos\\teacherfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\dtos\\teacherfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:dtos\\teacherfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,32 +63,36 @@
       "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:customauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\dtos\\signindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:dtos\\signindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\wwwroot\\images\\students\\f107b27e-4415-4edb-ac60-179732a1cd26.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:wwwroot\\images\\students\\f107b27e-4415-4edb-ac60-179732a1cd26.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\dtos\\signindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|solutionrelative:dtos\\signindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C104C3B9-944C-4D69-A354-9769024F1B9F}|mewo.csproj|c:\\users\\asus\\source\\repos\\mewo\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,86 +106,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StudentDto.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Dtos\\StudentDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\StudentDto.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Dtos\\StudentDto.cs",
-              "RelativeToolTip": "Dtos\\StudentDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T09:58:19.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "TeacherController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\TeacherController.cs",
               "RelativeDocumentMoniker": "Controllers\\TeacherController.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\TeacherController.cs",
               "RelativeToolTip": "Controllers\\TeacherController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T09:56:48.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBUAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T09:56:35.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-05T06:23:13.95Z"
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:56:03.581Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TeacherDto.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Dtos\\TeacherDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\TeacherDto.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Dtos\\TeacherDto.cs",
-              "RelativeToolTip": "Dtos\\TeacherDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T10:00:27.109Z"
+              "WhenOpened": "2025-11-04T06:47:39.421Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EnrollmentController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\EnrollmentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EnrollmentController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\EnrollmentController.cs",
-              "RelativeToolTip": "Controllers\\EnrollmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T06:34:01.095Z",
+              "WhenOpened": "2025-12-01T02:13:22.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAG8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:51:10.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:52:49.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T02:11:17.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Data\\UserRole.cs",
+              "RelativeDocumentMoniker": "Data\\UserRole.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Data\\UserRole.cs",
+              "RelativeToolTip": "Data\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T14:10:41.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "TeacherFilter.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Dtos\\TeacherFilter.cs",
               "RelativeDocumentMoniker": "Dtos\\TeacherFilter.cs",
@@ -170,32 +240,162 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "Controllers\\CourseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T06:47:39.421Z",
+              "WhenOpened": "2025-11-03T13:20:03.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBTwBIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T13:56:03.581Z"
+              "WhenOpened": "2025-11-14T18:43:50.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:01:43.697Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "TeacherDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Dtos\\TeacherDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\TeacherDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Dtos\\TeacherDto.cs",
+              "RelativeToolTip": "Dtos\\TeacherDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:00:27.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnrollmentController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T06:34:01.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomAuth.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\CustomAuth.cs",
+              "RelativeDocumentMoniker": "CustomAuth.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\CustomAuth.cs",
+              "RelativeToolTip": "CustomAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T06:37:22.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:33:44.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "f107b27e-4415-4edb-ac60-179732a1cd26.jpg - Bitmap [518x245, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\wwwroot\\images\\students\\f107b27e-4415-4edb-ac60-179732a1cd26.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\students\\f107b27e-4415-4edb-ac60-179732a1cd26.jpg",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\wwwroot\\images\\students\\f107b27e-4415-4edb-ac60-179732a1cd26.jpg - Bitmap [518x245, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\students\\f107b27e-4415-4edb-ac60-179732a1cd26.jpg - Bitmap [518x245, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-11-17T15:36:25.221Z",
+              "EditorCaption": " - Bitmap [518x245, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Dtos\\StudentDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Dtos\\StudentDto.cs",
+              "RelativeToolTip": "Dtos\\StudentDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA4wCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:58:19.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Dtos\\CourseDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CourseDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Dtos\\CourseDto.cs",
+              "RelativeToolTip": "Dtos\\CourseDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA6wBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T06:46:11.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T06:23:13.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:43:13.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "SignInDto.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Dtos\\SignInDto.cs",
               "RelativeDocumentMoniker": "Dtos\\SignInDto.cs",
@@ -203,71 +403,12 @@
               "RelativeToolTip": "Dtos\\SignInDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T14:07:28.082Z"
+              "WhenOpened": "2025-11-04T14:07:28.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CustomAuth.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\CustomAuth.cs",
-              "RelativeDocumentMoniker": "CustomAuth.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\CustomAuth.cs",
-              "RelativeToolTip": "CustomAuth.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAA2wD0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T06:37:22.187Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Models\\Student.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Models\\Student.cs",
-              "RelativeToolTip": "Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T18:43:50.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T13:51:10.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Dtos\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\RegisterDto.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Dtos\\RegisterDto.cs",
-              "RelativeToolTip": "Dtos\\RegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T13:52:49.368Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CourseDto.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Dtos\\CourseDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\CourseDto.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Dtos\\CourseDto.cs",
-              "RelativeToolTip": "Dtos\\CourseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T06:46:11.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "EnrollmentDto.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Dtos\\EnrollmentDto.cs",
               "RelativeDocumentMoniker": "Dtos\\EnrollmentDto.cs",
@@ -275,19 +416,8 @@
               "RelativeToolTip": "Dtos\\EnrollmentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T06:33:39.123Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\mewo\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\mewo\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T13:20:03.317Z"
+              "WhenOpened": "2025-11-04T06:33:39.123Z",
+              "EditorCaption": ""
             }
           ]
         }

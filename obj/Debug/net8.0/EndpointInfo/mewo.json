@@ -12,19 +12,44 @@
         ],
         "requestBody": {
           "content": {
-            "application/json": {
+            "multipart/form-data": {
               "schema": {
-                "$ref": "#/components/schemas/RegisterDto"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/RegisterDto"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/RegisterDto"
+                "required": [
+                  "Email",
+                  "Password",
+                  "Role",
+                  "Username"
+                ],
+                "type": "object",
+                "properties": {
+                  "Username": {
+                    "type": "string"
+                  },
+                  "Email": {
+                    "type": "string",
+                    "format": "email"
+                  },
+                  "Password": {
+                    "type": "string"
+                  },
+                  "Role": {
+                    "$ref": "#/components/schemas/AllowedRole"
+                  }
+                }
+              },
+              "encoding": {
+                "Username": {
+                  "style": "form"
+                },
+                "Email": {
+                  "style": "form"
+                },
+                "Password": {
+                  "style": "form"
+                },
+                "Role": {
+                  "style": "form"
+                }
               }
             }
           }
@@ -60,6 +85,55 @@
             }
           }
         },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Account/AssignRole": {
+      "post": {
+        "tags": [
+          "Account"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "Username": {
+                    "type": "string"
+                  },
+                  "Role": {
+                    "$ref": "#/components/schemas/AllowedRole"
+                  }
+                }
+              },
+              "encoding": {
+                "Username": {
+                  "style": "form"
+                },
+                "Role": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Admin": {
+      "get": {
+        "tags": [
+          "Admin"
+        ],
         "responses": {
           "200": {
             "description": "OK"
@@ -368,19 +442,45 @@
         ],
         "requestBody": {
           "content": {
-            "application/json": {
+            "multipart/form-data": {
               "schema": {
-                "$ref": "#/components/schemas/CreateStudentDto"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/CreateStudentDto"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/CreateStudentDto"
+                "type": "object",
+                "properties": {
+                  "FullName": {
+                    "type": "string"
+                  },
+                  "College": {
+                    "type": "string"
+                  },
+                  "Department": {
+                    "type": "string"
+                  },
+                  "Stage": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "ImageUrl": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "FullName": {
+                  "style": "form"
+                },
+                "College": {
+                  "style": "form"
+                },
+                "Department": {
+                  "style": "form"
+                },
+                "Stage": {
+                  "style": "form"
+                },
+                "ImageUrl": {
+                  "style": "form"
+                }
               }
             }
           }
@@ -431,19 +531,45 @@
         ],
         "requestBody": {
           "content": {
-            "application/json": {
+            "multipart/form-data": {
               "schema": {
-                "$ref": "#/components/schemas/UpdateStudentDto"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/UpdateStudentDto"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/UpdateStudentDto"
+                "type": "object",
+                "properties": {
+                  "FullName": {
+                    "type": "string"
+                  },
+                  "College": {
+                    "type": "string"
+                  },
+                  "Department": {
+                    "type": "string"
+                  },
+                  "Stage": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "ImageUrl": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "FullName": {
+                  "style": "form"
+                },
+                "College": {
+                  "style": "form"
+                },
+                "Department": {
+                  "style": "form"
+                },
+                "Stage": {
+                  "style": "form"
+                },
+                "ImageUrl": {
+                  "style": "form"
+                }
               }
             }
           }
@@ -676,10 +802,29 @@
           }
         }
       }
+    },
+    "/api/User": {
+      "get": {
+        "tags": [
+          "User"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
     "schemas": {
+      "AllowedRole": {
+        "enum": [
+          "User",
+          "Admin"
+        ],
+        "type": "string"
+      },
       "CreateCourseDto": {
         "type": "object",
         "properties": {
@@ -702,32 +847,6 @@
           "teacherId": {
             "type": "string",
             "format": "uuid"
-          }
-        },
-        "additionalProperties": false
-      },
-      "CreateStudentDto": {
-        "type": "object",
-        "properties": {
-          "fullName": {
-            "type": "string",
-            "nullable": true
-          },
-          "college": {
-            "type": "string",
-            "nullable": true
-          },
-          "department": {
-            "type": "string",
-            "nullable": true
-          },
-          "stage": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "imageUrl": {
-            "type": "string",
-            "nullable": true
           }
         },
         "additionalProperties": false
@@ -810,29 +929,6 @@
         },
         "additionalProperties": false
       },
-      "RegisterDto": {
-        "required": [
-          "email",
-          "password",
-          "username"
-        ],
-        "type": "object",
-        "properties": {
-          "username": {
-            "minLength": 1,
-            "type": "string"
-          },
-          "email": {
-            "minLength": 1,
-            "type": "string"
-          },
-          "password": {
-            "minLength": 1,
-            "type": "string"
-          }
-        },
-        "additionalProperties": false
-      },
       "SignInDto": {
         "required": [
           "password",
@@ -889,33 +985,6 @@
           "teacherId": {
             "type": "string",
             "format": "uuid",
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "UpdateStudentDto": {
-        "type": "object",
-        "properties": {
-          "fullName": {
-            "type": "string",
-            "nullable": true
-          },
-          "college": {
-            "type": "string",
-            "nullable": true
-          },
-          "department": {
-            "type": "string",
-            "nullable": true
-          },
-          "stage": {
-            "type": "integer",
-            "format": "int32",
-            "nullable": true
-          },
-          "imageUrl": {
-            "type": "string",
             "nullable": true
           }
         },

@@ -8,7 +8,7 @@ namespace mewo.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    [Authorize]
+    //[Authorize]
     public class EnrollmentController : ControllerBase
     {
         private readonly AppDbContext _context;

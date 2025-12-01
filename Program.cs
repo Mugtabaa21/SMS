@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using mewo;
+using mewo.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -41,7 +42,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseStaticFiles();
 // ⚠️ Correct order: Authentication first, then Authorization
 app.UseAuthentication();
 app.UseAuthorization();
