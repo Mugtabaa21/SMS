@@ -2,7 +2,7 @@
   {
     "ContainingType": "mewo.Controllers.AccountController",
     "Method": "AssignRole",
-    "RelativePath": "api/Account/AssignRole",
+    "RelativePath": "api/Account/ChangeRole",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -257,7 +257,7 @@
   },
   {
     "ContainingType": "mewo.Controllers.StudentsController",
-    "Method": "GetAllStudentDefualt",
+    "Method": "GetAllStudents",
     "RelativePath": "api/Students",
     "HttpMethod": "GET",
     "IsController": true,

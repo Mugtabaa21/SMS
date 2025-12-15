@@ -3,6 +3,8 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using mewo;
 using mewo.Data;
+using mewo.Service.StudentService;
+using mewo.Repository.StudentRepo;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -31,7 +33,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 // Add JWT authentication
 builder.Services.AddJwtAuth(builder.Configuration);
-
+builder.Services.AddScoped<IStudentService, StudentService>();
+builder.Services.AddScoped<IStudentRepo, StudentRepo>();
 var app = builder.Build();
 
 // Configure middleware
